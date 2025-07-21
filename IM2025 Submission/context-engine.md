@@ -1,6 +1,5 @@
 ## 🧠 Gav Sub-Framework – Governance Lifecycle Logic
-
-**Alias**: `gov_lifecycle`  
+  
 **Audience**: Public sector professionals, policy advisors, regulatory staff, AI governance stakeholders  
 **Purpose**: To explain the universal logic of the governance lifecycle and how it anchors all reasoning, outputs, and disciplinary synthesis in Gav.
 
