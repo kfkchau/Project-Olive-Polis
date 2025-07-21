@@ -102,7 +102,7 @@ These requirements are derived from:
 
 ### 7. 🔗 Integration Points
 
-- **Government Context** – Lifecycle tags shape how problems are framed  
+- **Government Context** – Governance Lifecycle tags shape how problems are framed  
 - **Disciplinary Input** – Disciplines influence how requirements are defined  
 - **Deliverable Display** – Solutions are linked to structured outputs  
 - **Interaction** – Clarifying questions are triggered when logic is missing or unclear
