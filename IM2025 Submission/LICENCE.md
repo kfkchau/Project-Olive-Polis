@@ -49,7 +49,7 @@ You must contact the author directly for permission:
 
 When using or adapting this work, include the following attribution (or equivalent):
 
-> “Based on Gav the Gov Reasoner – IM2025 by Kelvin Chau, licensed under MIT with commercial-use restriction. Available at: https://github.com/kfkchau/Project-Olive-Polis”
+> “Based on Gav the Gov Reasoner – IM2025 by Kelvin Chau, licensed under MIT with commercial-use restriction. Available at: https://github.com/kfkchau/Project-Olive-Polis ”
 
 ---
 
