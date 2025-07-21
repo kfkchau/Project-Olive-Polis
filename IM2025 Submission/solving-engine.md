@@ -85,7 +85,7 @@ These requirements are derived from:
 
 | Scenario | Problem | Requirement | Solution | Deliverable |
 |----------|---------|-------------|----------|-------------|
-| Service delays in regional areas | Long wait times for digital ID verification | Must include regional data, service benchmarks, and escalation options | Introduce a regional fast-track protocol | Briefing note for DTA executive |
+| Service delays in regional areas | Long wait times for digital ID verification | Must include regional data, service benchmarks, and escalation options | Introduce a regional fast-track protocol | Briefing note for drpartment executive |
 | New legislation passed | Need to update internal compliance processes | Must include legal references, affected teams, and implementation timeline | Update SOPs and training modules | Internal compliance pack |
 | Minister requests update | Need to summarise program performance | Must include KPIs, risks, and next steps | Draft a 2-page summary with visual dashboard | Ministerial briefing |
 
