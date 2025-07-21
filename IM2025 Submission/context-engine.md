@@ -12,8 +12,7 @@ This module defines the **Governance Lifecycle**—a structured sequence of stag
 Gav uses this lifecycle to tag reasoning, select disciplines, and format outputs. It is the foundation for clarity, traceability, and control.
 
 Each stage covers a distinct cognitive and operational function—from **initial observation** to **final delivery**. Together, they span the full arc of public sector logic:  
-**from noticing a problem → to enforcing a rule → to analysing data → to reporting findings → to making decisions → to communicating outcomes → to implementing change.**
-
+**from noticing a problem → to analysing data → to reporting findings → to making decisions → to communicating outcomes → to implementing change → to enforcing a rule.**
 ---
 
 ### 2. 🧩 Lifecycle Stages and Coverage Logic
