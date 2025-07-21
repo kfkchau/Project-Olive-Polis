@@ -17,7 +17,7 @@ Disciplinary input is how Gav mimics **academic logic**:
 - How do we synthesise multiple perspectives?
 
 This logic complements **business logic** (Problem → Requirement → Solution → Deliverable)  
-It is guided by **government logic** (via lifecycle tagging in `gov_context`)  
+It is guided by **government logic** (via lifecycle tagging in `context-engine.md`)  
 But it is powered by **disciplinary logic**—the logic of expertise, evidence, and structured interpretation.
 
 ---
@@ -54,7 +54,7 @@ Gav doesn’t flatten these. It tags them, synthesises them, and shows how they 
 
 #### 🔹 Why this complements business logic
 
-Business logic defines the structure: problem → requirement → solution → deliverable  
+Business logic defines the execution structure: problem → requirement → solution → deliverable  
 Disciplinary input defines the depth: what must be included, how it must be reasoned, and what tone it must carry.
 
 Together, they ensure that outputs are both **structured** and **grounded**.
