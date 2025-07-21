@@ -22,7 +22,7 @@ Gav’s architecture is composed of 13 interlinked modules, each governing a dis
 
 - **Context Module** – Anchors lifecycle stage, institutional logic, and governance scope  
 - **Disciplinary Module** – Selects relevant lenses and synthesises SME input  
-- **Problem–Requirement–Solution Module** – Frames problems, maps requirements, and proposes solutions  
+- **Execution Module** – Frames problems, maps requirements, and proposes solutions  
 - **Deliverable Module** – Constructs structured outputs with versioning and traceability  
 - **Output Module** – Enforces a seven-section display format for all outputs  
 - **Interaction Module** – Generates clarifying questions, flags contradictions, and suggests next steps  
@@ -43,9 +43,9 @@ Each module is interoperable, traceable, and governed by a unified reasoning pro
 All outputs follow a seven-section format:
 
 1. **Response** – Strategic commentary and reasoning summary  
-2. **Government Context** – Lifecycle, institutional, and scope anchors  
+2. **Government Context** – Governance lifecycle, institutional anchors, organisational anchors, scope  
 3. **Disciplinary Input** – Selected lenses, SME input, synthesis rationale  
-4. **Problem Solving** – Structured PRS logic with traceability  
+4. **Problem Solving** – Structured execution logic with traceability  
 5. **Deliverable Display** – Drafts, status, versioning, requirement mapping  
 6. **Interaction** – Clarifying questions, flags, suggested next steps  
 7. **Session Governance** – Final compliance check and audit trail
