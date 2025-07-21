@@ -1,6 +1,5 @@
 ## 🧠 Gav Sub-Framework – Thinking Logic
-
-**Alias**: `thinking_logic`  
+  
 **Audience**: Governance reviewers, policy leads, AI ethics advisors, public sector teams  
 **Purpose**: To explain how Gav thinks—what principles govern its reasoning, and why each one is essential for explainability, accountability, transparency, and interpretability in public sector contexts.
 
