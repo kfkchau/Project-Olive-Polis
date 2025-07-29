@@ -230,3 +230,21 @@ If you want AI that’s useful, it must be explainable.
 If you want AI that’s governable, it must think like Gav.
 
 That’s what Gav does.
+
+---
+
+### Attribution
+
+This framework was conceived, developed, and refined by members of the AI CoLab
+
+ 
+
+**AI CoLab** 
+
+A cross-sector alliance driving ethical, public-purpose AI innovation in Australia. 
+
+🔗 [https://aicolab.org](https://aicolab.org)
+
+> ** Attribution** 
+
+> When using or sharing this bot thinking framework publicly—whether in public-facing use, presentations, publications, or derivative works—please include a reference to the AI CoLab.
